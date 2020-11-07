@@ -1,0 +1,7 @@
+.navbar1 {
+  display: flex;
+}
+
+.fas:hover {
+  color: gray;
+}
